@@ -1,0 +1,45 @@
+{
+  "name": "seo-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "axios": "^0.20.0",
+    "bootstrap": "^4.5.3",
+    "git": "^0.1.5",
+    "html-react-parser": "^0.14.0",
+    "isomorphic-unfetch": "^3.0.0",
+    "jquery": "^3.5.1",
+    "mdbootstrap": "^4.19.1",
+    "mdbreact": "^4.27.0",
+    "next": "^9.5.2",
+    "poper": "^0.1.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-slick": "^0.27.13",
+    "sass": "^1.26.10",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.1.1"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.11.1"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emocean/emoc_cms_frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emocean/emoc_cms_frontend/issues"
+  },
+  "homepage": "https://github.com/Emocean/emoc_cms_frontend#readme"
+}
